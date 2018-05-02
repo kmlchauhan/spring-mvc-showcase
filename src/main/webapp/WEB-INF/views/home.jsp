@@ -37,6 +37,7 @@
     <div id="simple">
 		<h2>Simple</h2>
 		<p>
+			Hello from RBC WMTS DevOps Team...
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
 		<ul>
