@@ -38,6 +38,8 @@
 		<h2>Simple</h2>
 		<p>
 			Hello from RBC WMTS DevOps Team...
+		</p>
+		<p>
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
 		<ul>
